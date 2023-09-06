@@ -6,3 +6,6 @@ ZCZC W00 100 L02 Ikutin kelas
 ZCZC W00 65 L21 Coba install debian di VM
 ZCZC W00 60 L05 Belajar buat weekly quiz
 ZCZC W00 20 L05 Dummy quiz + preparation
+ZCZC W01 100 L02 Ikutin kelas
+ZCZC W01 100 L11 Reinstalling debian karena ga bener install awal
+ZCZC W01 30 L27 Trying to debug why can't SSH
