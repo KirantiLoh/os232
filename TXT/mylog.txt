@@ -9,3 +9,5 @@ ZCZC W00 20 L05 Dummy quiz + preparation
 ZCZC W01 100 L02 Ikutin kelas
 ZCZC W01 100 L11 Reinstalling debian karena ga bener install awal
 ZCZC W01 30 L27 Trying to debug why can't SSH
+ZCZC W01 15 L21 Trying to install neovim
+ZCZC W01 120 L11 Kerjain sampai finishing up
