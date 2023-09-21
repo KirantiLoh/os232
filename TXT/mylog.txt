@@ -17,3 +17,7 @@ ZCZC W02 70 L12 Kerjain weekly assignment sebagian
 ZCZC W02 10 L03 Saving work to local
 ZCZC W02 100 L02 Ikut kelas
 ZCZC W02 100 L12 Kerjain week 02
+ZCZC W03 100 L02 Ikutin kelas
+ZCZC W03 150 L13 Kelarin week 03
+ZCZC W03 120 L62 Recover kernel masuk panic mode
+ZCZC W03 10 L41 Buat log
