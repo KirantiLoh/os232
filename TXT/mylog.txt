@@ -21,3 +21,8 @@ ZCZC W03 100 L02 Ikutin kelas
 ZCZC W03 150 L13 Kelarin week 03
 ZCZC W03 120 L62 Recover kernel masuk panic mode
 ZCZC W03 10 L41 Buat log
+ZCZC W04 100 L02 Ikutin kelas
+ZCZC W04 120 L14 Kelarin week 04
+ZCZC W04 10 L41 Buat log
+ZCZC W04 10 L43 Edit myrank.txt
+
