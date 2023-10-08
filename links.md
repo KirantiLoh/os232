@@ -13,3 +13,5 @@ Belajar cara partisi yang baik dan cara debugging
 Overview bahasa C buat apa dan cara kerjanya
 5. (Understanding Pointers)[https://www.youtube.com/watch?v=2ybLD6_2gKM]
 Cara kerja pointer dalam memory
+6. (Learn C memory address in 7 minutes)[https://www.youtube.com/watch?v=1KVpi0VN82E]
+Buat belajar memory di C seperti apa
