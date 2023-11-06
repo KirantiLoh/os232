@@ -29,4 +29,6 @@ ZCZC W05 100 L02 Ikutin kelas
 ZCZC W05 35 L25 Coba pelajarin mymemory2.c
 ZCZC W05 130 L15 Kelarin week 05
 ZCZC W05 10 L41 Isi mylog.txt
-
+ZCZC W06 100 L02 Ikut kelas
+ZCZC W06 120 L16 Kelarin week 06
+ZCZC W06 10 L41 isi mylog.txt
