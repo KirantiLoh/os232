@@ -15,3 +15,5 @@ Overview bahasa C buat apa dan cara kerjanya
 Cara kerja pointer dalam memory
 6. (Learn C memory address in 7 minutes)[https://www.youtube.com/watch?v=1KVpi0VN82E]
 Buat belajar memory di C seperti apa
+7. (The fork() function in C)[https://www.youtube.com/watch?v=cex9XrZCU14&pp=ygUJZm9yayBpbiBj]
+Mempelajari apa itu fungsi fork() di C dan implikasi pada memori
