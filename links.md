@@ -17,3 +17,5 @@ Cara kerja pointer dalam memory
 Buat belajar memory di C seperti apa
 7. (The fork() function in C)[https://www.youtube.com/watch?v=cex9XrZCU14&pp=ygUJZm9yayBpbiBj]
 Mempelajari apa itu fungsi fork() di C dan implikasi pada memori
+8. (Deadlock in Operating System | GeeksForGeeks)[https://www.youtube.com/watch?v=onkWXaXAgbY]
+Mempelajari apa itu deadlock dan cara mengatasinya

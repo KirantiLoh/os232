@@ -32,3 +32,5 @@ ZCZC W05 10 L41 Isi mylog.txt
 ZCZC W06 100 L02 Ikut kelas
 ZCZC W06 120 L16 Kelarin week 06
 ZCZC W06 10 L41 isi mylog.txt
+ZCZC W07 120 L17 Kelarin week 07
+ZCZC W07 10 L41 Isi mylog.txt
