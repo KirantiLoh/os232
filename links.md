@@ -19,3 +19,5 @@ Buat belajar memory di C seperti apa
 Mempelajari apa itu fungsi fork() di C dan implikasi pada memori
 8. (Deadlock in Operating System | GeeksForGeeks)[https://www.youtube.com/watch?v=onkWXaXAgbY]
 Mempelajari apa itu deadlock dan cara mengatasinya
+9. (7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0)[https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8]
+Membantu pengerjaan LFS bab 5
